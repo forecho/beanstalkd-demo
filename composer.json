@@ -1,0 +1,20 @@
+{
+  "name": "forecho/beanstalkd-demo",
+  "description": "pheanstalk demo for beanstalkd",
+  "type": "yii2-extension",
+  "keywords": [
+    "php",
+    "beanstalkd",
+    "pheanstalk"
+  ],
+  "license": "MIT License",
+  "authors": [
+    {
+      "name": "forecho",
+      "email": "caizhenghai@gmail.com"
+    }
+  ],
+  "require": {
+    "pda/pheanstalk": "dev-master"
+  }
+}
